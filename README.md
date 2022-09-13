@@ -14,7 +14,7 @@ Final Year B.Tech student at IIITDMJ'23. <img src="https://media.giphy.com/media
 - 🔭 C++, Python, SQL, Full Stack Developer.
 - ⚡ I am proficient at Problem Solving, Data Strutures and algorithms, Competitive Programming
 - 🌱 Full Stack Web Developer and SQL Developer.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-vemireddy-bbb657193/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-vemireddy-bbb657193/)
 
 ---
 
