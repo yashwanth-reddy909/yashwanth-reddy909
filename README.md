@@ -44,9 +44,10 @@ Final Year B.Tech student at IIITDMJ'23. <img src="https://media.giphy.com/media
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+### ✍️ Coding Profiles : 
+- [LeetCode](https://leetcode.com/YashwanthVemireddy/)
+- [HackerRank](https://www.hackerrank.com/yashwanthreddy9)
+- [GFG Pratice](https://auth.geeksforgeeks.org/user/2019357/practice/)
+- [CodeChef](https://www.codechef.com/users/yashu_909)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
