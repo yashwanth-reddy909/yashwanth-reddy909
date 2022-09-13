@@ -1,4 +1,4 @@
-<p align="center"><img src=""https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611e1d590c539555c4bbecb77d70f9259e279a27d3b&rid=giphy.gif&ct=g" width="100"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611e1d590c539555c4bbecb77d70f9259e279a27d3b&rid=giphy.gif&ct=g" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
