@@ -37,6 +37,13 @@ Final Year B.Tech student at IIITDMJ'23. <img src="https://media.giphy.com/media
 
 ---
 
+### ✍️ Coding Profiles : 
+- [LeetCode](https://leetcode.com/YashwanthVemireddy/)
+- [HackerRank](https://www.hackerrank.com/yashwanthreddy9)
+- [GFG Pratice](https://auth.geeksforgeeks.org/user/2019357/practice/)
+- [CodeChef](https://www.codechef.com/users/yashu_909)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashwanth-reddy909&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -44,10 +51,4 @@ Final Year B.Tech student at IIITDMJ'23. <img src="https://media.giphy.com/media
 
 ---
 
-### ✍️ Coding Profiles : 
-- [LeetCode](https://leetcode.com/YashwanthVemireddy/)
-- [HackerRank](https://www.hackerrank.com/yashwanthreddy9)
-- [GFG Pratice](https://auth.geeksforgeeks.org/user/2019357/practice/)
-- [CodeChef](https://www.codechef.com/users/yashu_909)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
